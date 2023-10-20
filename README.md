@@ -10,7 +10,7 @@ Data analysis can be found in this [Jupyter Notebook](https://github.com/nadeego
 3. If a driver has been to a bar more than once, they are more likely to accept than other respondents. However, if they have a child in the car, it correlates to a reduced likelihood of acceptance.
 4. If a driver reported going to a bar more than once a month, had a passenger in the car that was not a kid *and was not employed in the farming, fishing or foresty industry, their acceptance rate was ~71%. 
 5. If a driver reported going to bars more than once a month and was under the age of 30, their acceptance rate was ~72%
-6. If a driver reported going go to cheap restaurants more than 4 times a month and had anincome less than 50K, their acceptance rate was ~46%. This suggests income may be a strong factor in acceptance.
+6. If a driver reported going go to cheap restaurants more than 4 times a month and had an income less than 50K, their acceptance rate was ~46%. This suggests income may be a strong factor in acceptance.
 
 ### Carry out & Takeway Coupons
 
